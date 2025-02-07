@@ -3,8 +3,8 @@
 
 ### Мой стек:
 <!--**Languages**-->
-| <img alt="JS" title="JavaScript" width="60px" src="./img/JS.png"> | <img title="HTML5" alt="HTML" width="60" src="./img/html5.png"/> | <img title="CSS3" alt="CSS" width="60" src="./img/css3.png"/> |
-| --- | --- | --- |
+| <img alt="JS" title="JavaScript" width="60px" src="./img/JS.png"> | <img title="HTML5" alt="HTML" width="60" src="./img/html5.png"/> | <img title="CSS3" alt="CSS" width="60" src="./img/css3.png"/> | <img title="CSS3" alt="CSS" width="60" src="./img/xml.png"/> |
+| --- | --- | --- | --- |
 <!--**Frameworks**-->
 | <img title="React" alt="React" width="60" src="./img/react.svg"/> |
 | --- |
